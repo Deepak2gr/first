@@ -1,0 +1,686 @@
+body
+{
+background-image: url(../images/d.jpeg);
+background-size: 100% 900px;
+padding: 0;
+margin: 0;
+background-attachment: fixed;
+}
+
+/*start homepage nav coding*/
+nav
+{
+width: 100%;
+height: 250px;
+background-color: rgba(0, 0, 0, 0.5);
+float: left;
+box-sizing: border-box;
+padding: 50px;
+}
+#wel
+{
+text-align: center;
+font-family: sans-serif;
+font-size: 80px;
+color: white;
+padding: 0;
+margin: 0;
+}
+#manu
+{
+width: 750px;
+height: 70px;
+box-sizing: border-box;
+margin-top: 10px;
+}
+#nmenu
+{
+width: 10%;
+height: 70px;
+border-width: 2px;
+border-style: solid;
+border-color: white;
+box-sizing: border-box;
+text-align: center;
+}
+a
+{
+color: white;
+text-decoration: none;
+font-family: sans-serif;
+font-size: 20px;
+}
+/*end homepage nav coding*/
+
+
+/*start  home section coding*/
+.homesection
+{
+width: 700px;
+height: 400px;
+box-sizing: border-box;
+float: right;
+background-color: rgba(0, 0, 0, 0.5);
+}
+.logo
+{
+width: 180px;
+height: 180px;
+box-sizing: border-box;
+border-width: 5px;
+border-style: solid;
+border-color: hotpink;
+margin-top: 120px;
+}
+.logona
+{
+font-family: verdana;
+font-size: 160px;
+margin-top: -20px;
+color: hotpink;
+}
+.ld
+{
+font-family: Lucida Calligraphy;
+font-size: 40px;
+margin: 0;
+padding: 0;
+text-align: center;
+margin-left: 20px;
+color: lightpink;
+}
+
+
+
+/*end  home section coding*/
+/*start login page nav coding*/
+#domain
+{
+padding: 0;
+margin: 0;
+color: white;
+text-align: center;
+font-size: 50px;
+font-family: Humnst777 Blk BT;
+}
+
+
+/*end login page nav coding*/
+/*start login page section coding*/
+fieldset
+{
+width: 380px;
+height: 260px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+margin-left: 130px;
+padding: 25px;
+}
+.loginsection
+{
+width: 700px;
+height: 400px;
+box-sizing: border-box;
+float: right;
+background-color: rgba(0, 0, 0, 0.5);
+padding: 40px;
+}
+legend
+{
+font-family: Clarendon BT;
+color: white;
+font-size: 30px;
+font-weight: bold;
+}
+.loginform
+{
+font-family: sans-serif;
+color: white;
+font-size: 25px;}
+.Username
+{
+width: 100%;
+height: 25px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+margin-bottom: 10px;}
+.Password
+{
+width: 100%;
+height: 25px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+}
+.loginbutton
+{
+width: 130px;
+height: 40px;
+float: right;
+margin-top: 25px;
+margin-right: -5px;
+background-color: inherit;
+border-width: 1px;
+border-style: solid;
+border-color: hotpink;
+color: white;
+font-size: 20px;
+font-family: sans-serif;
+
+}
+/*end login page section coding*/
+/*start singup page section coding*/
+.singupsection
+{
+width: 700px;
+height: 500px;
+box-sizing: border-box;
+float: right;
+background-color: rgba(0, 0, 0, 0.5);
+padding: 40px;
+}
+.fds
+{
+width: 380px;
+height: 380px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+margin-left: 130px;
+padding: 25px;	
+margin-top: -20px;
+}
+.name
+{
+width: 100%;
+height: 20px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+margin-bottom: 10px;
+}
+.age
+{
+width: 100%;
+height: 20px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+margin-bottom: 10px;
+}
+.email
+{
+width: 100%;
+height: 20px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+margin-bottom: 10px;
+}
+.singupbutton
+{
+width: 130px;
+height: 35px;
+float: right;
+margin-top: 20px;
+margin-right: -5px;
+background-color: inherit;
+border-width: 1px;
+border-style: solid;
+border-color: hotpink;
+color: white;
+font-size: 20px;
+font-family: sans-serif;	
+}
+.pas
+{
+width: 100%;
+height: 20px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+margin-bottom: 10px;
+}
+
+/*end singup page section coding*/
+/*start body tag coding*/
+.bd
+{
+background-image: url(../images/ddtr.jpeg);
+background-size: 100% 800px;
+padding: 0;
+margin: 0;
+background-attachment: fixed;
+}
+/*end body tag coding*/
+/*start contact page coding*/
+.Contact
+{
+font-size: 25px;
+font-family: Bookman Old Style;
+padding: 0;
+margin: 0;
+color: hotpink;
+font-style: none;
+line-height: 40px;
+}
+/*start contact section page codeing*/
+.contactsection
+{
+width: 700px;
+height: 450px;
+box-sizing: border-box;
+float: right;
+background-color: rgba(0, 0, 0, 0.5);
+padding: 50px;
+}
+/*end contact section page codeing*/
+/*start fieldset contact section page codeing*/
+.fet
+{
+width: 400px;
+height: 260px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+margin-left: 130px;
+padding: 25px;
+}
+/*end fieldset contact section page codeing*/
+/*end contact page coding*/
+/*start product page section coding*/
+.productsection
+{
+width: 100%;
+height: 3128px;
+border-width: 1px;
+border-style: solid;
+border-color: orangered;
+box-sizing: border-box;
+}
+.brand
+{
+width: 100%;
+height: 380px;
+background-color: rgba(255, 255, 255, .8);
+float: left;
+box-sizing: border-box;
+}
+.brandheddin
+{
+text-align: center;
+font-family: Exotc350 Bd BT;
+font-size: 40px;
+}
+.brandpic
+{
+width: 200px;
+height: 80px;
+float: left;
+box-sizing: border-box;
+border-width: 3px;
+border-style: solid;
+border-color: black;
+margin: 34px;
+margin-left: 55px;
+margin-top: 10px;
+}
+.bpi
+{
+width: 195px;
+height: 76px;
+background-color: white;
+}
+.search
+{
+width: 60%;
+height: 50px;
+box-sizing: border-box;
+float: left;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 20px;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: #ccc;
+font-size: 18px;
+padding: 10px;
+background-image: url(../images/src.png);
+background-size: 40px 40px;
+background-repeat: no-repeat;
+background-position: right;
+
+}
+#maybproducts
+{
+width: 100%;
+height: 500px;
+float: left;
+box-sizing: border-box;
+background-color: rgba(0, 0, 0, 0.75);
+}
+.mayb
+{
+text-align: center;
+color: white;
+font-family: Exotc350 Bd BT;
+font-size: 35px;
+}
+.maybpropic
+{
+width: 250px;
+height: 300px;
+float: left;
+box-sizing: border-box;
+margin: 45px;
+margin-right: 72px;
+}
+#lakmeproducts
+{
+width: 100%;
+height: 500px;
+float: left;
+box-sizing: border-box;
+background-color: rgba(0, 0, 0, 0.75);
+}
+.lakpropic
+{
+width: 250px;
+height: 300px;
+float: left;
+box-sizing: border-box;
+margin: 45px;
+margin-right: 72px;
+}
+.lak
+{
+text-align: center;
+color: white;
+font-family: Exotc350 Bd BT;
+font-size: 35px;
+}
+#lorproducts
+{
+width: 100%;
+height: 500px;
+float: left;
+box-sizing: border-box;
+background-color: rgba(0, 0, 0, 0.75);
+}
+.lorpropic
+{
+width: 250px;
+height: 300px;
+float: left;
+box-sizing: border-box;
+margin: 45px;
+margin-right: 72px;
+}
+.lor
+{
+text-align: center;
+color: white;
+font-family: Exotc350 Bd BT;
+font-size: 35px;
+}
+#doveproducts
+{
+width: 100%;
+height: 500px;
+float: left;
+box-sizing: border-box;
+background-color: rgba(0, 0, 0, 0.75);
+}
+.dovpropic
+{
+width: 250px;
+height: 300px;
+float: left;
+box-sizing: border-box;
+margin: 45px;
+margin-right: 72px;
+}
+.dov
+{
+text-align: center;
+color: white;
+font-family: Exotc350 Bd BT;
+font-size: 35px;
+}
+#nykproducts
+{
+width: 100%;
+height: 500px;
+float: left;
+box-sizing: border-box;
+background-color: rgba(0, 0, 0, 0.75);
+}
+.nykpropic
+{
+width: 250px;
+height: 300px;
+float: left;
+box-sizing: border-box;
+margin: 45px;
+margin-right: 72px;
+}
+.nyk
+{
+text-align: center;
+color: white;
+font-family: Exotc350 Bd BT;
+font-size: 35px;
+}
+
+/*end prodcut page section coding*/
+/*start footer page coding*/
+footer
+{
+width: 100%;
+height: 60px;
+box-sizing: border-box;
+float: left;
+background-color: rgba(255, 255, 255, 0.4);
+text-align: center;
+font-family: GeoSlab703 Md BT;
+}
+/*end footer page coding*/
+/*start prodcut image coding*/
+.mayim
+{
+width: 246px;
+height: 230px;
+box-sizing: border-box;
+}
+.lakim
+{
+width: 246px;
+height: 230px;
+box-sizing: border-box;
+}
+.lorim
+{
+width: 246px;
+height: 230px;
+box-sizing: border-box;
+}
+.dovim
+{
+width: 246px;
+height: 230px;
+box-sizing: border-box;
+}
+.nyim
+{
+width: 246px;
+height: 230px;
+box-sizing: border-box;
+}
+/*end prodcut image coding*/
+/*start prodcut name , price, buy now ,cart coding*/
+.mayprna
+{
+text-align: center;
+font-size: 18px;
+color: hotpink;
+font-family: Franklin Gothic;
+margin-top: 0px;
+padding: 0px;
+}
+.lakprna
+{
+text-align: center;
+font-size: 18px;
+color: hotpink;
+font-family: Franklin Gothic;
+margin-top: 0px;
+padding: 0px;
+}
+.lorprna
+{
+text-align: center;
+font-size: 18px;
+color: hotpink;
+font-family: Franklin Gothic;
+margin-top: 0px;
+padding: 0px;
+}
+.dovprna
+{
+text-align: center;
+font-size: 18px;
+color: hotpink;
+font-family: Franklin Gothic;
+margin-top: 0px;
+padding: 0px;
+}
+.nyprna
+{
+text-align: center;
+font-size: 18px;
+color: hotpink;
+font-family: Franklin Gothic;
+margin-top: 0px;
+padding: 0px;	
+}
+.mayprpri
+{
+font-size: 18px;
+color: cornflowerblue;
+font-family: Franklin Gothic;
+margin: 0px;
+padding: 0px;
+float: left;
+margin-left: 8px;
+margin-bottom: 8px;
+
+}
+.maybuypro
+{
+font-size: 18px;
+float: right;
+color: cornflowerblue;
+font-family: Franklin Gothic;
+margin: 0px;
+padding: 0px;
+margin-right: 8px;
+}
+/*end product name ,price, buy now, cart codeing*/
+/*start order page coding*/
+.addre
+{
+width: 100%;
+height: 20px;
+background-color: inherit;
+border: none;
+border-width: 1px;
+border-style: solid;
+border-color: white;
+margin-top: 10px;
+color: lightseagreen;
+font-size: 18px;
+margin-bottom: 10px;
+}
+.fdmt
+{
+width: 380px;
+height: 450px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+margin-left: 130px;
+padding: 25px;
+margin-top: -40px;
+}
+.bd1
+{
+background-image: url(../images/233.jpeg);
+background-size: 100% 100%;
+padding: 0;
+margin: 0;
+background-attachment: fixed;
+}
+.ordersection
+{
+width: 700px;
+height: 550px;
+box-sizing: border-box;
+float: right;
+background-color: rgba(0, 0, 0, 0.5);
+padding: 40px;
+}
+/*end order page coding*/
+/*start about page coding*/
+.aboutbutoon
+{
+width: 600px;
+height: 400px;
+
+}
+.h1about
+{
+text-align: center;
+font-size: 30px;
+font-family: sans-serif;
+color: mediumseagreen;
+}
+.pabount
+{
+font-size: 25px;
+font-family: serif;
+color: lightpink;
+}
+/*end about page coding*/
